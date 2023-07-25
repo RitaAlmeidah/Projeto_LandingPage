@@ -1,4 +1,4 @@
-# Projeto_LandingPage
+# Projeto_MyPage
 * Fundamentos Web
 * Utilizado HTML5, CSS3 e JavaScript
 
